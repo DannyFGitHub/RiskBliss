@@ -13,3 +13,4 @@ That's ok, just press either 1,2,3 for the number of defending units and the 2 o
 Then press Blitz, and it will calculate only one round.
 
 
+ANDROID ONLY
